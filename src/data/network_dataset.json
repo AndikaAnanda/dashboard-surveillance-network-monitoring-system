@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Router 01",
+    "site": "Site 5",
+    "status": "up",
+    "bandwidth": 251,
+    "latency": 92,
+    "packetLoss": 2.11,
+    "lastUpdate": "2026-04-01 02:06:49.905023"
+  },
+  {
+    "id": 2,
+    "name": "Router 02",
+    "site": "Site 5",
+    "status": "up",
+    "bandwidth": 335,
+    "latency": 46,
+    "packetLoss": 0.34,
+    "lastUpdate": "2026-04-01 02:49:49.905033"
+  },
+  {
+    "id": 3,
+    "name": "Router 03",
+    "site": "Site 2",
+    "status": "down",
+    "bandwidth": 965,
+    "latency": 94,
+    "packetLoss": 2.47,
+    "lastUpdate": "2026-04-01 02:14:49.905040"
+  },
+  {
+    "id": 4,
+    "name": "Router 04",
+    "site": "Site 5",
+    "status": "up",
+    "bandwidth": 32,
+    "latency": 98,
+    "packetLoss": 2.53,
+    "lastUpdate": "2026-04-01 02:15:49.905045"
+  },
+  {
+    "id": 5,
+    "name": "Router 05",
+    "site": "Site 1",
+    "status": "down",
+    "bandwidth": 150,
+    "latency": 3,
+    "packetLoss": 1.94,
+    "lastUpdate": "2026-04-01 02:06:49.905049"
+  },
+  {
+    "id": 6,
+    "name": "Router 06",
+    "site": "Site 5",
+    "status": "down",
+    "bandwidth": 280,
+    "latency": 10,
+    "packetLoss": 4.16,
+    "lastUpdate": "2026-04-01 02:42:49.905055"
+  },
+  {
+    "id": 7,
+    "name": "Router 07",
+    "site": "Site 1",
+    "status": "up",
+    "bandwidth": 299,
+    "latency": 88,
+    "packetLoss": 1.92,
+    "lastUpdate": "2026-04-01 03:00:49.905060"
+  },
+  {
+    "id": 8,
+    "name": "Router 08",
+    "site": "Site 4",
+    "status": "up",
+    "bandwidth": 179,
+    "latency": 7,
+    "packetLoss": 2.95,
+    "lastUpdate": "2026-04-01 02:14:49.905064"
+  },
+  {
+    "id": 9,
+    "name": "Router 09",
+    "site": "Site 5",
+    "status": "down",
+    "bandwidth": 347,
+    "latency": 86,
+    "packetLoss": 2.9,
+    "lastUpdate": "2026-04-01 02:29:49.905069"
+  },
+  {
+    "id": 10,
+    "name": "Router 10",
+    "site": "Site 3",
+    "status": "down",
+    "bandwidth": 797,
+    "latency": 24,
+    "packetLoss": 3.33,
+    "lastUpdate": "2026-04-01 02:22:49.905074"
+  },
+  {
+    "id": 11,
+    "name": "Router 11",
+    "site": "Site 5",
+    "status": "up",
+    "bandwidth": 898,
+    "latency": 94,
+    "packetLoss": 3.86,
+    "lastUpdate": "2026-04-01 02:16:49.905079"
+  },
+  {
+    "id": 12,
+    "name": "Router 12",
+    "site": "Site 5",
+    "status": "down",
+    "bandwidth": 988,
+    "latency": 100,
+    "packetLoss": 2.46,
+    "lastUpdate": "2026-04-01 02:27:49.905084"
+  },
+  {
+    "id": 13,
+    "name": "Router 13",
+    "site": "Site 1",
+    "status": "up",
+    "bandwidth": 684,
+    "latency": 9,
+    "packetLoss": 2.03,
+    "lastUpdate": "2026-04-01 02:16:49.905089"
+  },
+  {
+    "id": 14,
+    "name": "Router 14",
+    "site": "Site 3",
+    "status": "down",
+    "bandwidth": 327,
+    "latency": 57,
+    "packetLoss": 2.74,
+    "lastUpdate": "2026-04-01 02:40:49.905094"
+  },
+  {
+    "id": 15,
+    "name": "Router 15",
+    "site": "Site 5",
+    "status": "down",
+    "bandwidth": 241,
+    "latency": 54,
+    "packetLoss": 0.79,
+    "lastUpdate": "2026-04-01 02:51:49.905099"
+  },
+  {
+    "id": 16,
+    "name": "Router 16",
+    "site": "Site 2",
+    "status": "down",
+    "bandwidth": 806,
+    "latency": 47,
+    "packetLoss": 4.76,
+    "lastUpdate": "2026-04-01 02:21:49.905104"
+  },
+  {
+    "id": 17,
+    "name": "Router 17",
+    "site": "Site 4",
+    "status": "down",
+    "bandwidth": 37,
+    "latency": 4,
+    "packetLoss": 1.67,
+    "lastUpdate": "2026-04-01 02:47:49.905108"
+  },
+  {
+    "id": 18,
+    "name": "Router 18",
+    "site": "Site 3",
+    "status": "up",
+    "bandwidth": 507,
+    "latency": 74,
+    "packetLoss": 2.88,
+    "lastUpdate": "2026-04-01 02:11:49.905113"
+  },
+  {
+    "id": 19,
+    "name": "Router 19",
+    "site": "Site 4",
+    "status": "up",
+    "bandwidth": 323,
+    "latency": 4,
+    "packetLoss": 3.05,
+    "lastUpdate": "2026-04-01 02:45:49.905118"
+  },
+  {
+    "id": 20,
+    "name": "Router 20",
+    "site": "Site 4",
+    "status": "down",
+    "bandwidth": 13,
+    "latency": 60,
+    "packetLoss": 1.39,
+    "lastUpdate": "2026-04-01 02:08:49.905123"
+  },
+  {
+    "id": 21,
+    "name": "Router 21",
+    "site": "Site 4",
+    "status": "up",
+    "bandwidth": 622,
+    "latency": 41,
+    "packetLoss": 2.39,
+    "lastUpdate": "2026-04-01 02:36:49.905127"
+  },
+  {
+    "id": 22,
+    "name": "Router 22",
+    "site": "Site 4",
+    "status": "up",
+    "bandwidth": 297,
+    "latency": 21,
+    "packetLoss": 0.47,
+    "lastUpdate": "2026-04-01 02:37:49.905132"
+  },
+  {
+    "id": 23,
+    "name": "Router 23",
+    "site": "Site 1",
+    "status": "down",
+    "bandwidth": 636,
+    "latency": 17,
+    "packetLoss": 4.38,
+    "lastUpdate": "2026-04-01 02:25:49.905137"
+  },
+  {
+    "id": 24,
+    "name": "Router 24",
+    "site": "Site 2",
+    "status": "up",
+    "bandwidth": 352,
+    "latency": 64,
+    "packetLoss": 4.72,
+    "lastUpdate": "2026-04-01 02:35:49.905141"
+  },
+  {
+    "id": 25,
+    "name": "Router 25",
+    "site": "Site 4",
+    "status": "down",
+    "bandwidth": 144,
+    "latency": 45,
+    "packetLoss": 2.79,
+    "lastUpdate": "2026-04-01 02:14:49.905146"
+  },
+  {
+    "id": 26,
+    "name": "Router 26",
+    "site": "Site 5",
+    "status": "up",
+    "bandwidth": 433,
+    "latency": 18,
+    "packetLoss": 4.15,
+    "lastUpdate": "2026-04-01 02:09:49.905152"
+  },
+  {
+    "id": 27,
+    "name": "Router 27",
+    "site": "Site 1",
+    "status": "down",
+    "bandwidth": 440,
+    "latency": 53,
+    "packetLoss": 0.98,
+    "lastUpdate": "2026-04-01 02:15:49.905157"
+  },
+  {
+    "id": 28,
+    "name": "Router 28",
+    "site": "Site 2",
+    "status": "down",
+    "bandwidth": 610,
+    "latency": 54,
+    "packetLoss": 0.8,
+    "lastUpdate": "2026-04-01 02:33:49.905163"
+  },
+  {
+    "id": 29,
+    "name": "Router 29",
+    "site": "Site 5",
+    "status": "up",
+    "bandwidth": 758,
+    "latency": 30,
+    "packetLoss": 4.95,
+    "lastUpdate": "2026-04-01 02:07:49.905168"
+  },
+  {
+    "id": 30,
+    "name": "Router 30",
+    "site": "Site 4",
+    "status": "down",
+    "bandwidth": 519,
+    "latency": 31,
+    "packetLoss": 0.09,
+    "lastUpdate": "2026-04-01 02:58:49.905176"
+  }
+]

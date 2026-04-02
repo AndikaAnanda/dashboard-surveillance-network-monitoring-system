@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Camera 01",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:01:49.904624",
+    "alerts": 3
+  },
+  {
+    "id": 2,
+    "name": "Camera 02",
+    "type": "CCTV",
+    "location": "Site 3",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:25:49.904678",
+    "alerts": 2
+  },
+  {
+    "id": 3,
+    "name": "Camera 03",
+    "type": "CCTV",
+    "location": "Site 3",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:41:49.904689",
+    "alerts": 5
+  },
+  {
+    "id": 4,
+    "name": "Camera 04",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:33:49.904697",
+    "alerts": 4
+  },
+  {
+    "id": 5,
+    "name": "Camera 05",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:59:49.904704",
+    "alerts": 5
+  },
+  {
+    "id": 6,
+    "name": "Camera 06",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:46:49.904709",
+    "alerts": 0
+  },
+  {
+    "id": 7,
+    "name": "Camera 07",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:45:49.904713",
+    "alerts": 2
+  },
+  {
+    "id": 8,
+    "name": "Camera 08",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:37:49.904717",
+    "alerts": 2
+  },
+  {
+    "id": 9,
+    "name": "Camera 09",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:00:49.904721",
+    "alerts": 0
+  },
+  {
+    "id": 10,
+    "name": "Camera 10",
+    "type": "CCTV",
+    "location": "Site 3",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:04:49.904726",
+    "alerts": 5
+  },
+  {
+    "id": 11,
+    "name": "Camera 11",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:45:49.904731",
+    "alerts": 1
+  },
+  {
+    "id": 12,
+    "name": "Camera 12",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:02:49.904735",
+    "alerts": 5
+  },
+  {
+    "id": 13,
+    "name": "Camera 13",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:08:49.904740",
+    "alerts": 1
+  },
+  {
+    "id": 14,
+    "name": "Camera 14",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:06:49.904744",
+    "alerts": 5
+  },
+  {
+    "id": 15,
+    "name": "Camera 15",
+    "type": "CCTV",
+    "location": "Site 3",
+    "status": "inactive",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:00:49.904749",
+    "alerts": 0
+  },
+  {
+    "id": 16,
+    "name": "Camera 16",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:22:49.904753",
+    "alerts": 4
+  },
+  {
+    "id": 17,
+    "name": "Camera 17",
+    "type": "CCTV",
+    "location": "Site 3",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:15:49.904757",
+    "alerts": 5
+  },
+  {
+    "id": 18,
+    "name": "Camera 18",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:17:49.904761",
+    "alerts": 1
+  },
+  {
+    "id": 19,
+    "name": "Camera 19",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:45:49.904765",
+    "alerts": 0
+  },
+  {
+    "id": 20,
+    "name": "Camera 20",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "inactive",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:22:49.904769",
+    "alerts": 1
+  },
+  {
+    "id": 21,
+    "name": "Camera 21",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "inactive",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:05:49.904773",
+    "alerts": 4
+  },
+  {
+    "id": 22,
+    "name": "Camera 22",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:01:49.904777",
+    "alerts": 5
+  },
+  {
+    "id": 23,
+    "name": "Camera 23",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:23:49.904782",
+    "alerts": 5
+  },
+  {
+    "id": 24,
+    "name": "Camera 24",
+    "type": "CCTV",
+    "location": "Site 2",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:18:49.904786",
+    "alerts": 0
+  },
+  {
+    "id": 25,
+    "name": "Camera 25",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:35:49.904798",
+    "alerts": 4
+  },
+  {
+    "id": 26,
+    "name": "Camera 26",
+    "type": "CCTV",
+    "location": "Site 2",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:16:49.904802",
+    "alerts": 3
+  },
+  {
+    "id": 27,
+    "name": "Camera 27",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:12:49.904807",
+    "alerts": 2
+  },
+  {
+    "id": 28,
+    "name": "Camera 28",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:50:49.904811",
+    "alerts": 4
+  },
+  {
+    "id": 29,
+    "name": "Camera 29",
+    "type": "CCTV",
+    "location": "Site 3",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:41:49.904815",
+    "alerts": 5
+  },
+  {
+    "id": 30,
+    "name": "Camera 30",
+    "type": "CCTV",
+    "location": "Site 2",
+    "status": "inactive",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:34:49.904819",
+    "alerts": 1
+  },
+  {
+    "id": 31,
+    "name": "Camera 31",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:21:49.904823",
+    "alerts": 5
+  },
+  {
+    "id": 32,
+    "name": "Camera 32",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:24:49.904827",
+    "alerts": 1
+  },
+  {
+    "id": 33,
+    "name": "Camera 33",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:22:49.904831",
+    "alerts": 2
+  },
+  {
+    "id": 34,
+    "name": "Camera 34",
+    "type": "CCTV",
+    "location": "Site 2",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:19:49.904835",
+    "alerts": 5
+  },
+  {
+    "id": 35,
+    "name": "Camera 35",
+    "type": "CCTV",
+    "location": "Site 2",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:18:49.904839",
+    "alerts": 0
+  },
+  {
+    "id": 36,
+    "name": "Camera 36",
+    "type": "CCTV",
+    "location": "Site 2",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:43:49.904843",
+    "alerts": 0
+  },
+  {
+    "id": 37,
+    "name": "Camera 37",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:41:49.904847",
+    "alerts": 5
+  },
+  {
+    "id": 38,
+    "name": "Camera 38",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:52:49.904850",
+    "alerts": 1
+  },
+  {
+    "id": 39,
+    "name": "Camera 39",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:33:49.904854",
+    "alerts": 4
+  },
+  {
+    "id": 40,
+    "name": "Camera 40",
+    "type": "CCTV",
+    "location": "Site 4",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:41:49.904858",
+    "alerts": 5
+  },
+  {
+    "id": 41,
+    "name": "Camera 41",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "inactive",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:17:49.904862",
+    "alerts": 5
+  },
+  {
+    "id": 42,
+    "name": "Camera 42",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:40:49.904866",
+    "alerts": 3
+  },
+  {
+    "id": 43,
+    "name": "Camera 43",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:42:49.904872",
+    "alerts": 0
+  },
+  {
+    "id": 44,
+    "name": "Camera 44",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:07:49.904876",
+    "alerts": 2
+  },
+  {
+    "id": 45,
+    "name": "Camera 45",
+    "type": "CCTV",
+    "location": "Site 1",
+    "status": "inactive",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:28:49.904881",
+    "alerts": 2
+  },
+  {
+    "id": 46,
+    "name": "Camera 46",
+    "type": "CCTV",
+    "location": "Site 2",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:54:49.904885",
+    "alerts": 3
+  },
+  {
+    "id": 47,
+    "name": "Camera 47",
+    "type": "CCTV",
+    "location": "Site 2",
+    "status": "active",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:08:49.904890",
+    "alerts": 1
+  },
+  {
+    "id": 48,
+    "name": "Camera 48",
+    "type": "CCTV",
+    "location": "Site 5",
+    "status": "inactive",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:15:49.904894",
+    "alerts": 0
+  },
+  {
+    "id": 49,
+    "name": "Camera 49",
+    "type": "CCTV",
+    "location": "Site 3",
+    "status": "active",
+    "aiEnabled": false,
+    "lastUpdate": "2026-04-01 02:28:49.904898",
+    "alerts": 2
+  },
+  {
+    "id": 50,
+    "name": "Camera 50",
+    "type": "CCTV",
+    "location": "Site 2",
+    "status": "inactive",
+    "aiEnabled": true,
+    "lastUpdate": "2026-04-01 02:45:49.904902",
+    "alerts": 2
+  }
+]
