@@ -1,12 +1,9 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import { FaEthernet, FaVideo } from 'react-icons/fa'
+import NetworkPage from './pages/NetworkPage'
 
 const TABS = [
-  { id: 'network', label: 'NETWORK MONITORING', icon: FaEthernet},
-  { id: 'surveillance', label: 'SURVEILLANCE', icon: FaVideo}
+  { id: 'network', label: 'NETWORK MONITORING', icon: '⬡'},
+  { id: 'surveillance', label: 'SURVEILLANCE', icon: '◉'}
 ]
 
 function App() {

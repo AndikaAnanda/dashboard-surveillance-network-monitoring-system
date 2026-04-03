@@ -1,6 +1,10 @@
 import { useState, useMemo } from "react";
 import initialData from "../data/network_dataset.json"
 import { useRealtimeNetwork } from "../hooks/useRealtime";
+import SummaryCard from "../components/SummaryCard";
+import { StatusDonutChart, BandwidthChart, LatencyLineChart, PacketLossChart} from "../components/Charts"
+import FilterBar from "../components/FilterBar";
+import NetworkTable from "../components/NetworkTable";
 
 function SyncDot({ lastSync, tickCount }) {
     return (
@@ -13,7 +17,7 @@ function SyncDot({ lastSync, tickCount }) {
 }
 
 export default function NetworkPage() {
-    const [data, lastSync, tickCount] = useRealtimeNetwork(initialData, 3000)
+    const {data, lastSync, tickCount} = useRealtimeNetwork(initialData, 3000)
     const [search, setSearch] = useState('')
     const [statusFilter, setStatusFilter] = useState('all')
     const [siteFilter, setSiteFilter] = useState('all')
@@ -86,7 +90,7 @@ export default function NetworkPage() {
           </div>
         </div>
  
-        
+        <NetworkTable data={filtered} />
       </div>
     </div>
   )
