@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import NetworkPage from './pages/NetworkPage'
+import SurveillancePage from './pages/SurveillancePage'
 
 const TABS = [
   { id: 'network', label: 'NETWORK MONITORING', icon: '⬡'},
@@ -66,7 +67,7 @@ function App() {
       {/* Main */}
       <main className="flex-1 p-7 max-w-[1600px] w-full mx-auto">
         {activeTab === 'network' && <NetworkPage />}
-        {/* {activeTab === 'surveillance' && <SurveillancePage />} */}
+        {activeTab === 'surveillance' && <SurveillancePage />}
       </main>
  
       {/* Footer */}
