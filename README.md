@@ -2,6 +2,8 @@
 
 Dashboard monitoring real-time untuk **Surveillance** dan **Network** berbasis React + Chart.js.
 
+public url : https://ops-monitor.vercel.app/
+
 ## Tech Stack
 
 - **React 19** + **Vite 8**
